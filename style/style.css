@@ -156,9 +156,9 @@ header .logo a {
   border-radius: 500px;
   height: auto;
   position: absolute;
-  left: 80%;
+  left: 90%;
   box-shadow: 15px 0px whitesmoke;
-  top: 10%;
+  top: 20%;
   transform: translateX(-80%);
   border: 2px hidden gray;
 }
